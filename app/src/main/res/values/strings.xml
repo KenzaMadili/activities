@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activities</string>
+
+    <!-- Labels formulaire -->
+    <string name="label_nom">Nom &amp; Prénom</string>
+    <string name="label_email">Email</string>
+    <string name="label_telephone">Téléphone</string>
+    <string name="label_adresse">Adresse</string>
+    <string name="label_ville">Ville</string>
+
+    <!-- Hints -->
+    <string name="hint_nom">Ex : Mohamed Lachgar</string>
+    <string name="hint_email">Ex : user@gmail.com</string>
+    <string name="hint_telephone">Ex : +212676000000</string>
+    <string name="hint_adresse">Ex : 23, Hay Salam ...</string>
+    <string name="hint_ville">Ex : Agadir</string>
+
+    <!-- Boutons -->
+    <string name="btn_envoyer">Envoyer</string>
+    <string name="btn_retour">Retour</string>
+
+    <!-- Screen 2 -->
+    <string name="titre_recap">Récapitulatif</string>
+</resources>
