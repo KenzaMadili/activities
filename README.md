@@ -64,11 +64,11 @@ L’application est composée de deux activités :
 
 ### 🔹 Formulaire
 
-![Formulaire](screenshots/form.png)
+![Formulaire](activity1.jpeg)
 
 ### 🔹 Résultat
 
-![Résultat](screenshots/result.png)
+![Résultat](activity2.jpeg)
 
 
 
